@@ -1,1 +1,1 @@
-# Kidney Disease Detection Using Xception and Xceptio + CBAM
+# Kidney Disease Detection Using Xception and Xception + CBAM
